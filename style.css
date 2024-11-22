@@ -1,0 +1,47 @@
+
+body{
+
+    background-color: hsl(0, 0%, 0%);
+}
+h1{
+    margin: 10px;
+    text-shadow: 3px 3px 5px red, -3px -3px 5px lightskyblue;
+    font-family: verdana, arial;
+    color: aliceblue;
+}
+pre{
+    font-family: "lucida console", "courier new";
+    font-size: 1.1em;
+    color:aquamarine;
+    padding: 20px;
+    border-bottom: 3px solid hsl(182, 83%, 50%);
+    border-left: 3px solid hsl(182, 83%, 50%);
+    border-right: 3px solid hsl(182, 83%, 50%);
+    border-top: 3px solid hsl(182, 83%, 50%);
+    border-radius: 10px;
+    width: 650px;
+    
+}
+#h4{
+    margin-left: 5px;
+    color: blueviolet;
+}
+
+h3{
+    color: brown;
+}
+
+.hello{
+    color:green;
+}
+/*
+font-weight: bold;
+font-style: italic;
+fonts.google.com
+
+@font-face{
+    src: url(fonts/Exemplu.ttf);
+    font-family: Exemplu;
+}
+
+*/
